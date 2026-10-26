@@ -1,0 +1,15 @@
+button{
+    background-color: rgb(245, 8, 56);
+    color: aliceblue;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h3{
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+    line-height: 80px;
+    text-shadow: 8px 4px 8px color(srgb red rgb(128, 0, 0) blue);
+}
